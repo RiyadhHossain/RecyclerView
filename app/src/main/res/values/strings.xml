@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RecyclerView01</string>
+	<string name="name1">RecyclerView1</string>
+	<string name="name2">RecyclerView2</string>
+	<string name="name3">RecyclerView3</string>
+
 </resources>
